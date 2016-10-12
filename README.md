@@ -1,5 +1,5 @@
 # Practicas-Continguts-Multimedia
 
 Nombres:
-Sergi Badia Oliver
+Sergi Badia Oliver,
 Isabel Lieto Martin
