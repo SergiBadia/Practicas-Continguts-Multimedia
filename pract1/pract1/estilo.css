@@ -1,0 +1,28 @@
+article{
+  float:left;
+  width: 300 px;
+  margin 50 px
+  border: 2 px solid #ccc;
+}
+
+img img {
+    width: 100%;
+    height: auto;
+}
+
+img:hover {
+    border: 2px solid #787B96;
+}
+
+desc {
+    padding: 10 px;
+    text-align: center;
+
+#contenedor{
+	width: 500 px;
+	height: 500 px;
+	text-align: center;
+
+	
+}
+
