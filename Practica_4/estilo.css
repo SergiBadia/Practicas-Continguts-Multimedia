@@ -1,8 +1,9 @@
 article{
   float:left;
-  width: 300 px;
-  margin 50 px
-  border: 2 px solid #ccc;
+  width: 400 px;
+  margin 2 px
+  border: 5 px solid #ccc;
+  wspace="5" 
 }
 
 img img {
@@ -19,7 +20,7 @@ desc {
     text-align: center;
 
 #contenedor{
-	width: 500 px;
+	width: 1500 px;
 	height: 500 px;
 	text-align: center;
 
